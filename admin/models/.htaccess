@@ -1,0 +1,5 @@
+# prevent folder listing
+IndexIgnore *
+<FilesMatch "config.php">
+Deny from all
+</FilesMatch>

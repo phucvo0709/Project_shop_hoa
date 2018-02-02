@@ -1,0 +1,45 @@
+/* CSS Document */
+.print
+{
+	display:none;
+}
+table
+{
+	 width: 100%;
+     border-collapse: collapse; 	
+}
+table thead th 
+{
+	font-weight: bold;
+	font-size: 15px;
+	border-bottom: 1px solid #ddd;
+	text-align:left;
+}
+table tbody {
+                border-bottom: 1px solid #ddd;
+                }
+                
+tbody tr {
+                background: #fff;
+                }
+              
+ tbody tr.alt-row {
+                background: #f3f3f3;
+                }
+                
+ table td,
+ table th {
+                padding: 10px;
+                line-height: 1.3em;
+                }        
+				
+table tfoot td .bulk-actions {
+                padding: 15px 0 5px 0;
+				text-align:right;
+                } 
+				
+table tfoot td .bulk-actions select {
+                padding: 4px;
+				border: 1px solid #ccc;
+                }  
+

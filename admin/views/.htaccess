@@ -1,0 +1,3 @@
+<FilesMatch "\.*$">
+Deny from all
+</FilesMatch>

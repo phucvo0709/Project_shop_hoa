@@ -1,0 +1,24 @@
+.chi_tiet_hoa_don p label{
+  font-weight: 600;
+}
+.tieu_de{
+  text-align: center;
+  margin-bottom: 20px;
+  color: #f1362f;
+}
+th, td{
+  padding:10px;
+}
+h4{
+  color: #f1362f;
+  padding: 10px;
+}
+.hien_thi_don_hang{
+  width: 220px;
+}
+.chua_co_don_hang{
+  padding-left: 20px;
+}
+.xu_ly{
+  text-align: center;
+}

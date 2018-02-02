@@ -1,0 +1,1 @@
+{extends file="layout_trang_chu.tpl"}

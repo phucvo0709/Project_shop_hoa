@@ -1,0 +1,18 @@
+RewriteEngine On
+ErrorDocument 404 http://wikicach.com/shop_hoa/404.php 
+RewriteRule ^lien-he.html$ lien_he.php
+RewriteRule ^danh-sach-hoa$ hoa.php
+RewriteRule ^san-pham/([a-zA-Z0-9_-]+)-([0-9]+).html$ chi_tiet_hoa.php?ten_hoa=$1&id=$2
+RewriteRule ^loai-hoa/([a-zA-Z_-]+)-([0-9]+)$ hoa.php?ten_loai=$1&loai_hoa=$2
+RewriteRule ^tin-tuc/([a-zA-Z0-9_-]+)-([0-9]+).html$ ct_tin_tuc.php?ten_tin=$1&ma_tin=$2
+RewriteRule ^loai-hoa/([a-zA-Z_-]+)-([0-9]+)/page/([0-9+])$ hoa.php?ten_loai=$1&loai_hoa=$2&page=$3
+RewriteRule ^gio-hang.html$ xem_gio_hang.php
+RewriteRule ^khach-hang.html khach_hang.php
+RewriteRule ^tin-tuc.html tin_tuc.php
+RewriteRule ^check-hoa-don.html check_hoa_don.php
+RewriteRule ^gioi-thieu.html gioi_thieu.php
+RewriteRule ^dat-hang-thanh-cong.html luu_du_lieu.php
+RewriteRule ^dang-nhap.html dang_nhap.php
+RewriteRule ^dang-ki.html dang_ki.php
+RewriteRule ^dang-xuat.html dang_xuat.php
+RewriteRule ^san-pham-da-xem san_pham_da_xem.php
