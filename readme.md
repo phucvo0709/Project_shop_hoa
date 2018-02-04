@@ -8,7 +8,7 @@
 
 Tổng quan giao diện trang người dùng:
 
-<div align="center">![view](https://farm5.staticflickr.com/4648/40041533422_c21108bd9d_b.jpg)</div>
+<p align="center">![view](https://farm5.staticflickr.com/4648/40041533422_c21108bd9d_b.jpg)</p>
 
 
 
