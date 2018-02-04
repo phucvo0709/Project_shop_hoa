@@ -8,8 +8,7 @@
 
 Tổng quan giao diện trang người dùng:
 
-![view](https://farm5.staticflickr.com/4648/40041533422_c21108bd9d_b.jpg)
-
+<div style="text-align:center"><img src ="https://farm5.staticflickr.com/4648/40041533422_c21108bd9d_b.jpg" /></div>
 
 
 <strong>Tổng quan giao diện trang chi tiết hoa:</strong>
