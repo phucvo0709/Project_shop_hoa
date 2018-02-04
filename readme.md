@@ -9,7 +9,7 @@
 <p><strong>Tổng quan giao diện trang người dùng:</strong></p>
 ![view](https://farm5.staticflickr.com/4648/40041533422_c21108bd9d_b.jpg)
 
-<strong>Tổng quan giao diện trang chi tiết hoa:</strong>
+<p><strong>Tổng quan giao diện trang chi tiết hoa:</strong></p>
 ![view](https://farm5.staticflickr.com/4747/26201018628_583fa8da17_b.jpg)
 ![view](https://farm5.staticflickr.com/4721/26201018388_eb2f4ed09d_b.jpg)
 ![view](https://farm5.staticflickr.com/4621/26201018048_e2ee3350a7_b.jpg)
@@ -23,7 +23,7 @@
 <p><strong>Tổng quan giao diện trang check hóa đơn:</strong></p>
 ![view](https://farm5.staticflickr.com/4695/26201018588_a4193b9842_b.jpg)
 
-<p.<strong>Tổng quan chức năng đặt hàng:</strong></p>
+<p><strong>Tổng quan chức năng đặt hàng:</strong></p>
 ![view](https://farm5.staticflickr.com/4724/40041536202_2d67a292b3_b.jpg)
 ![view](https://farm5.staticflickr.com/4603/26201018098_ddbcf11122_b.jpg)
 ![view](https://farm5.staticflickr.com/4678/39175874255_3073623a74_b.jpg)
