@@ -7,29 +7,28 @@
 - Tài khoản đăng nhập admin mặc định nhấp lưu đăng nhập để lưu phiên đăng nhập: lmhanh/lmhanh123
 
 <strong>Tổng quan giao diện trang người dùng:</strong>
-<br><br>
 ![view](https://farm5.staticflickr.com/4648/40041533422_c21108bd9d_b.jpg)
+<br><br>
 
 <strong>Tổng quan giao diện trang chi tiết hoa:</strong>
-<br><br>
 ![view](https://farm5.staticflickr.com/4747/26201018628_583fa8da17_b.jpg)
 ![view](https://farm5.staticflickr.com/4721/26201018388_eb2f4ed09d_b.jpg)
 ![view](https://farm5.staticflickr.com/4621/26201018048_e2ee3350a7_b.jpg)
+<br><br>
 
 <strong>Tổng quan giao diện trang danh sách hoa:</strong>
-<br><br>
 ![view](https://farm5.staticflickr.com/4757/26201017108_4e902bf238_b.jpg)
+<br><br>
 
 <strong>Tổng quan giao diện trang tin tức:</strong>
-<br><br>
 ![view](https://farm5.staticflickr.com/4669/39175873805_ae4962cbdc_b.jpg)
+<br><br>
 
 <strong>Tổng quan giao diện trang check hóa đơn:</strong>
-<br><br>
 ![view](https://farm5.staticflickr.com/4695/26201018588_a4193b9842_b.jpg)
+<br><br>
 
 <strong>Tổng quan chức năng đặt hàng:</strong>
-<br><br>
 ![view](https://farm5.staticflickr.com/4724/40041536202_2d67a292b3_b.jpg)
 ![view](https://farm5.staticflickr.com/4603/26201018098_ddbcf11122_b.jpg)
 ![view](https://farm5.staticflickr.com/4678/39175874255_3073623a74_b.jpg)
